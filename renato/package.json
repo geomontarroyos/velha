@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Geovanna",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
 }
