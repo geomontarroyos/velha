@@ -1,0 +1,23 @@
+{
+    "name": "renato",
+    "short_name": "jogo",
+    "icons": [
+        {
+            "src": "images/foto1.png",
+            "sizes": "256x256",
+            "type": "image/png",
+           "purpose": "any maskable"
+        },
+        {
+            "src": "images/foto2.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "lang": "pt-BR",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+}
